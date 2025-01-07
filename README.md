@@ -1,2 +1,5 @@
 # Brain-Stroke-Prediction
-The project demonstrates the potential of using logistic regression to assist in the stroke  prediction and management of brain stroke using Python. 
+The project demonstrates the potential of using logistic regression to assist in the stroke prediction and management of brain stroke using Python. 
+Brain stroke, a severe medical condition resulting from interrupted blood flow to the brain, is a major cause of mortality and disability worldwide. Early detection of individuals at risk of stroke is crucial for implementing preventive measures and reducing the burden of stroke-related complications. This abstract presents a machine learning-based approach for predicting the risk of brain stroke.
+Logistic regression is a statistical method for predicting binary classes. The outcome or target variable is dichotomous in nature. Dichotomous means there are only two possible classes. For example, it can be used for cancer detection problems. It computes the probability of an event occurrence.
+It is a special case of linear regression where the target variable is categorical in nature. It uses a log of odds as the dependent variable. Logistic Regression predicts the probability of occurrence of a binary event utilizing a logit function.
